@@ -1,7 +1,0 @@
-bs4
-requests
-Flask
-aiohttp
-user_agent
-fake_useragent 
-pythondns
